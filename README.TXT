@@ -24,3 +24,9 @@ Supported (tested) platforms
 - UNIX (GCC)
 
 Licence: LGPL
+
+Installation (Linux)
+
+   make
+   cp -rf lib /usr/local/lib
+   cp -rf include /usr/local/include
